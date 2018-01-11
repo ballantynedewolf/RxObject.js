@@ -8,7 +8,7 @@ String and vector are always in sync
 ## Constructor
 If input is a string, the object will validate the string against the validation parameter or a default  
 If input is a number, no validation is done.  
-use somevar= new RxObject(string input, string type, [string validation])  
+use obj= new RxObject(string input, string type, [string validation])  
 Allowed types: sph, cyl, axisC  
 Allowed validations: 0.25, -0.25, 0.12, -0.12, 180  
 
