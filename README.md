@@ -1,4 +1,4 @@
-# RxObject.js
+# RxObject.js v1.1
 A javascript object for spectacle prescription parameters  
 The string property is for input and display  
 The vector property is for storage and manipulation  
